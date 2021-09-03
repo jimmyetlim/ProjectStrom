@@ -1,0 +1,2971 @@
+fileFormatVersion: 2
+guid: 42872ddf654b34544ba6f7bffd7947f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5466272844502082859
+    second: eyeMouth_0
+  - first:
+      213: 7119331730807111979
+    second: eyeMouth_1
+  - first:
+      213: 912018933106158154
+    second: eyeMouth_2
+  - first:
+      213: -4096391316671276874
+    second: eyeMouth_3
+  - first:
+      213: -7863948148684839786
+    second: eyeMouth_4
+  - first:
+      213: 386446012484673460
+    second: eyeMouth_5
+  - first:
+      213: 2452040609637891723
+    second: eyeMouth_6
+  - first:
+      213: -6743933888947203319
+    second: eyeMouth_7
+  - first:
+      213: 222737620663884254
+    second: eyeMouth_8
+  - first:
+      213: -561525101034906227
+    second: eyeMouth_9
+  - first:
+      213: 2381031759789205638
+    second: eyeMouth_10
+  - first:
+      213: -1119620503564792995
+    second: eyeMouth_11
+  - first:
+      213: 4795206890513178283
+    second: eyeMouth_12
+  - first:
+      213: -7949917513724584063
+    second: eyeMouth_13
+  - first:
+      213: -3077832267211717014
+    second: eyeMouth_14
+  - first:
+      213: 2036824436929621548
+    second: eyeMouth_15
+  - first:
+      213: 6732585046030823346
+    second: eyeMouth_16
+  - first:
+      213: -2879141473756754295
+    second: eyeMouth_17
+  - first:
+      213: -8725292387343374804
+    second: eyeMouth_18
+  - first:
+      213: -7690541880807969158
+    second: eyeMouth_19
+  - first:
+      213: 3647468465815798161
+    second: eyeMouth_20
+  - first:
+      213: -8608684615528046244
+    second: eyeMouth_21
+  - first:
+      213: -4764247851197689523
+    second: eyeMouth_22
+  - first:
+      213: 2807089339146927022
+    second: eyeMouth_23
+  - first:
+      213: -5548554411376854702
+    second: eyeMouth_24
+  - first:
+      213: 303037811607814581
+    second: eyeMouth_25
+  - first:
+      213: 6847063757176704166
+    second: eyeMouth_26
+  - first:
+      213: 1184597036537825470
+    second: eyeMouth_27
+  - first:
+      213: -1058881813604907295
+    second: eyeMouth_28
+  - first:
+      213: -7039630686298307775
+    second: eyeMouth_29
+  - first:
+      213: -1065258367683867155
+    second: eyeMouth_30
+  - first:
+      213: -4771626470198509330
+    second: eyeMouth_31
+  - first:
+      213: -8819717612714181774
+    second: eyeMouth_32
+  - first:
+      213: 796422246544021540
+    second: eyeMouth_33
+  - first:
+      213: -5735003869419212532
+    second: eyeMouth_34
+  - first:
+      213: 6978729994727187652
+    second: eyeMouth_35
+  - first:
+      213: -6051625685278923876
+    second: eyeMouth_36
+  - first:
+      213: 1869944100787803550
+    second: eyeMouth_37
+  - first:
+      213: 2994189442442080719
+    second: eyeMouth_38
+  - first:
+      213: -3951503898521685489
+    second: eyeMouth_39
+  - first:
+      213: 8096601772561269004
+    second: eyeMouth_40
+  - first:
+      213: 4314240194732880010
+    second: eyeMouth_41
+  - first:
+      213: 4324572935219749591
+    second: eyeMouth_42
+  - first:
+      213: -6290485297492452387
+    second: eyeMouth_43
+  - first:
+      213: 2010911719068540195
+    second: eyeMouth_44
+  - first:
+      213: -2681897369351914708
+    second: eyeMouth_45
+  - first:
+      213: 3265111953802098591
+    second: eyeMouth_46
+  - first:
+      213: 8542719699203962901
+    second: eyeMouth_47
+  - first:
+      213: -7742192384343221446
+    second: eyeMouth_48
+  - first:
+      213: -5326432294161001829
+    second: eyeMouth_49
+  - first:
+      213: -2137769027968650305
+    second: eyeMouth_50
+  - first:
+      213: -7333661951760425818
+    second: eyeMouth_51
+  - first:
+      213: 4057972050084229814
+    second: eyeMouth_52
+  - first:
+      213: -1246236915309139300
+    second: eyeMouth_53
+  - first:
+      213: 4700431447581036244
+    second: eyeMouth_54
+  - first:
+      213: -7197838118204482132
+    second: eyeMouth_55
+  - first:
+      213: -7836472056226180456
+    second: eyeMouth_56
+  - first:
+      213: 8069316475399883032
+    second: eyeMouth_57
+  - first:
+      213: 4301979965027616911
+    second: eyeMouth_58
+  - first:
+      213: -7756812613466770345
+    second: eyeMouth_59
+  - first:
+      213: -6693327688169151833
+    second: eyeMouth_60
+  - first:
+      213: 2521290655753824584
+    second: eyeMouth_61
+  - first:
+      213: 4360279789243751037
+    second: eyeMouth_62
+  - first:
+      213: 7957145998350779886
+    second: eyeMouth_63
+  - first:
+      213: 552301023563930836
+    second: eyeMouth_64
+  - first:
+      213: 6635679474667063441
+    second: eyeMouth_65
+  - first:
+      213: 1826062690209434135
+    second: eyeMouth_66
+  - first:
+      213: 2605687331791698386
+    second: eyeMouth_67
+  - first:
+      213: 9065347658515226796
+    second: eyeMouth_68
+  - first:
+      213: -4571036787065065188
+    second: eyeMouth_69
+  - first:
+      213: 5857933398838919549
+    second: eyeMouth_70
+  - first:
+      213: 6998691521973046885
+    second: eyeMouth_71
+  - first:
+      213: -8813838544941954466
+    second: eyeMouth_72
+  - first:
+      213: -1021376666523353426
+    second: eyeMouth_73
+  - first:
+      213: 1282934782839759972
+    second: eyeMouth_74
+  - first:
+      213: 816067435222426316
+    second: eyeMouth_75
+  - first:
+      213: 318095425826635997
+    second: eyeMouth_76
+  - first:
+      213: -9048751635795049901
+    second: eyeMouth_77
+  - first:
+      213: 237451393882602450
+    second: eyeMouth_78
+  - first:
+      213: -3318073624246412227
+    second: eyeMouth_79
+  - first:
+      213: -2996604266935638152
+    second: eyeMouth_80
+  - first:
+      213: 1192818081135396931
+    second: eyeMouth_81
+  - first:
+      213: -7549942761576415310
+    second: eyeMouth_82
+  - first:
+      213: -2818429131720766952
+    second: eyeMouth_83
+  - first:
+      213: 2592911659212597221
+    second: eyeMouth_84
+  - first:
+      213: 7716376756458247000
+    second: eyeMouth_85
+  - first:
+      213: 265435785740646191
+    second: eyeMouth_86
+  - first:
+      213: 8183735534119057817
+    second: eyeMouth_87
+  - first:
+      213: 5428713551181567552
+    second: eyeMouth_88
+  - first:
+      213: -1167241927134058884
+    second: eyeMouth_89
+  - first:
+      213: 1610137691419463246
+    second: eyeMouth_90
+  - first:
+      213: -7559782594877711895
+    second: eyeMouth_91
+  - first:
+      213: -3075575789668053018
+    second: eyeMouth_92
+  - first:
+      213: 4349354170089602205
+    second: eyeMouth_93
+  - first:
+      213: 3800517936682752144
+    second: eyeMouth_94
+  - first:
+      213: -7818772706830374101
+    second: eyeMouth_95
+  - first:
+      213: 3726562641006989322
+    second: eyeMouth_96
+  - first:
+      213: -7414947450643041356
+    second: eyeMouth_97
+  - first:
+      213: -8483959895695424878
+    second: eyeMouth_98
+  - first:
+      213: 945880434117212038
+    second: eyeMouth_99
+  - first:
+      213: -8749573162015652316
+    second: eyeMouth_100
+  - first:
+      213: 1152156596297694
+    second: eyeMouth_101
+  - first:
+      213: -5206802441205860749
+    second: eyeMouth_102
+  - first:
+      213: -1978639023987774347
+    second: eyeMouth_103
+  - first:
+      213: 4306444118991638166
+    second: eyeMouth_104
+  - first:
+      213: 9029509904104391290
+    second: eyeMouth_105
+  - first:
+      213: -8886554127738004572
+    second: eyeMouth_106
+  - first:
+      213: -8198871357619531803
+    second: eyeMouth_107
+  - first:
+      213: -8728361683187431781
+    second: eyeMouth_108
+  - first:
+      213: -780442278299097648
+    second: eyeMouth_109
+  - first:
+      213: -4122522257841630661
+    second: eyeMouth_110
+  - first:
+      213: 3871585246247610365
+    second: eyeMouth_111
+  - first:
+      213: -4673973329857051902
+    second: eyeMouth_112
+  - first:
+      213: -2284770916800074974
+    second: eyeMouth_113
+  - first:
+      213: 1741239687303113050
+    second: eyeMouth_114
+  - first:
+      213: -15534318515607412
+    second: eyeMouth_115
+  - first:
+      213: 3837366431527834989
+    second: eyeMouth_116
+  - first:
+      213: -3775525104728978053
+    second: eyeMouth_117
+  - first:
+      213: -6268712811781978764
+    second: eyeMouth_118
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: eyeMouth_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 722
+        width: 56
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbbff787992e034cb3320d249b90098
+      internalID: 5466272844502082859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 721
+        width: 63
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d28d7a4fad181f4da1182ff07a4a916
+      internalID: 7119331730807111979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 879
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba7d585f33a88d44b67b686cc92fb8f
+      internalID: 912018933106158154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_3
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 879
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd2c38fb79ce994b99c3e1290678085
+      internalID: -4096391316671276874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_4
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 914
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f421b9c29c0970c4aa4405519c76e8f4
+      internalID: -7863948148684839786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_5
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 915
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4091a40c76c98dc46b110d7122a19f49
+      internalID: 386446012484673460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_6
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 910
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62148ce123427b44add8c513b4ac1b6
+      internalID: 2452040609637891723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 923
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4325ae2611250c4bb72d036d2e17a0f
+      internalID: -6743933888947203319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_8
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 875
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b521b105c91d37f4b84a0775d3435d09
+      internalID: 222737620663884254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 871
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048a0a45c22518940b25639010ba5e71
+      internalID: -561525101034906227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_10
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 866
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9741df1051218234e91ac6fb1359bb2c
+      internalID: 2381031759789205638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_11
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 882
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50a98dec40ad934a896f6ac94fa7791
+      internalID: -1119620503564792995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_12
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 805
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05cd2ee8c289e446add7e2afb8a73de
+      internalID: 4795206890513178283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_13
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 805
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef378e344d284914d9a1f40d99d53ff0
+      internalID: -7949917513724584063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_14
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 849
+        width: 38
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51cb7cfcbfaf1a4d86f255cb6a226cf
+      internalID: -3077832267211717014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 844
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dba4f32b986764988ee8c75dea5799
+      internalID: 2036824436929621548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_16
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 839
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1313494e7e07ca42b0a890283acd48c
+      internalID: 6732585046030823346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_17
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 822
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf82197ad0e938448630387d099c4f2
+      internalID: -2879141473756754295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_18
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 812
+        width: 46
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5764637c3d1065743b06f6d04c6cb1ce
+      internalID: -8725292387343374804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_19
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 801
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7038e30feab2db64eb86816477f4ffe5
+      internalID: -7690541880807969158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_20
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 796
+        width: 46
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9f681630daf624b8f58583025df2b7
+      internalID: 3647468465815798161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_21
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 718
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff81a79ba66307a49beae2e587e224cb
+      internalID: -8608684615528046244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_22
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 718
+        width: 62
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b05d9be28149242940d9e19ae6781b
+      internalID: -4764247851197689523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 767
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcb1de8117da4c4d89f9bd3a86f5ee0
+      internalID: 2807089339146927022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_24
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 769
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7596294513b6079498748042f822faab
+      internalID: -5548554411376854702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_25
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 764
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e683c23340685489cb1acedc76e0ab
+      internalID: 303037811607814581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_26
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 772
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae49d4dd896b545bdd58a888464400
+      internalID: 6847063757176704166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 733
+        width: 67
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ead7872e0a95948870687b1ef3b40b
+      internalID: 1184597036537825470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_28
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 724
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9866539be91836d4da6a8be6258214d0
+      internalID: -1058881813604907295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_29
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 719
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34af6b324050ef845afe6b3731efa2f9
+      internalID: -7039630686298307775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_30
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 720
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cd30fad726abb4f96e52dbb061dca5
+      internalID: -1065258367683867155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_31
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 647
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58de6afb973a37b4f99c18b2d2418a5b
+      internalID: -4771626470198509330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_32
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 647
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19eebb3ff6d492e41bb1ddc8ce7e7fae
+      internalID: -8819717612714181774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_33
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 636
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fef2e731b5b61409cd9cf901c4ba93
+      internalID: 796422246544021540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 636
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a21b5c8060791740af62bd1d24bc300
+      internalID: -5735003869419212532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_35
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 667
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6016514a2a07844f86f34a988c834d4
+      internalID: 6978729994727187652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_36
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 663
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3142dde4119a104799b9ef6cf6f08be
+      internalID: -6051625685278923876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_37
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 659
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51c774660b00c445ad644e2bb8f6081
+      internalID: 1869944100787803550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_38
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 646
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd109aaf673fbd40afed476f894ce30
+      internalID: 2994189442442080719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_39
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 570
+        width: 57
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979b736d049e8c84d9ee240996c44138
+      internalID: -3951503898521685489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_40
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 570
+        width: 58
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5d1770574deff4487866060eddb5de
+      internalID: 8096601772561269004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_41
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 567
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a73ab1724aa4144e839a2f1d3710f19
+      internalID: 4314240194732880010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_42
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 567
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040bec851965f0046a38fb70244c6b5d
+      internalID: 4324572935219749591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_43
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 589
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3522b3c914820f9468ce20cd41430865
+      internalID: -6290485297492452387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 586
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943df5af476d3d046936dd7676c15cf1
+      internalID: 2010911719068540195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_45
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 581
+        width: 31
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c67c86a1f06774099a3535d15978ee
+      internalID: -2681897369351914708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_46
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 578
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad1189745cb4bbd4a95378ceab2a84cf
+      internalID: 3265111953802098591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_47
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 494
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54de932247b52414b8aeaf77ba6400b6
+      internalID: 8542719699203962901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_48
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 493
+        width: 70
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0f19073caaa62468e01e053cf7797e
+      internalID: -7742192384343221446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_49
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 557
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcf33fbf32631c4bbe998c081d26eae
+      internalID: -5326432294161001829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_50
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 542
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe329c8b45b88fd4eaf12ef8506de0a4
+      internalID: -2137769027968650305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_51
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 537
+        width: 48
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6c063a8847e5c43af0fb906548b55d
+      internalID: -7333661951760425818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_52
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 513
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3a7d57b7aad9346874fc040776df26
+      internalID: 4057972050084229814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 513
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20692cd477c2afc428745326e054618a
+      internalID: -1246236915309139300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_54
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 523
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b0d9a13d3ff934e9064b48aa2ad237
+      internalID: 4700431447581036244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_55
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 516
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192a205107409f40ad3327bb601325e
+      internalID: -7197838118204482132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 511
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a363d43fc0d5f2d4dbaa132592206eb0
+      internalID: -7836472056226180456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_57
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 506
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae0c9bc672b5834d9986b0da9e0914f
+      internalID: 8069316475399883032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_58
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 485
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b427968192e9cab468fb726876d10aa0
+      internalID: 4301979965027616911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_59
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 495
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babd75b040ed6914cb4d1677103adae7
+      internalID: -7756812613466770345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_60
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 487
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33576a86ac232174db3a5634bf67f260
+      internalID: -6693327688169151833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_61
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 482
+        width: 49
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b4e5453c4590e46b007be66f17b3c5
+      internalID: 2521290655753824584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_62
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 411
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43552062ebbc4d48a7a4d2df33713cd
+      internalID: 4360279789243751037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_63
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 250
+        width: 63
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ed1e59dfc9246479b0dff933355e6b
+      internalID: 7957145998350779886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_64
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 411
+        width: 55
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b9c33104f5b1148b3841506cf455bb
+      internalID: 552301023563930836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_65
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 411
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f7f9d7fd16766c4682dfbb6a5ae264e
+      internalID: 6635679474667063441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_66
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 475
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c24096a51463244493b5a40f173219f
+      internalID: 1826062690209434135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_67
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 453
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b85835373cd9e54a8ae95bbbdc7e018
+      internalID: 2605687331791698386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_68
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 436
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b97c3ba864e884fb4dd8a68ccfbe28
+      internalID: 9065347658515226796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_69
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 448
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076345cda35f13d49a2e79ac6ed5ce55
+      internalID: -4571036787065065188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_70
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 421
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b385ff7eb5b6b44db9cb7337342015e
+      internalID: 5857933398838919549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_71
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 416
+        width: 45
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c776534c657e8014abdcf1a68499a21f
+      internalID: 6998691521973046885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_72
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 251
+        width: 56
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115cec7f77ccc6841aa6b912b0fd139b
+      internalID: -8813838544941954466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 340
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c879d01d65585284aa68e1f135cd2a6b
+      internalID: -1021376666523353426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_74
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 340
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9464ed3a5afca4fbef87744a6ccb9e
+      internalID: 1282934782839759972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_75
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 384
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1e0c8b0e0b2684e967a505d84089e2
+      internalID: 816067435222426316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_76
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 376
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae027acf6764bfc46bb7bc22caf11d29
+      internalID: 318095425826635997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_77
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 371
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e282276add9341b71365e397b9368
+      internalID: -9048751635795049901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_78
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 342
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c87d2380783584683cb48ec8159e60
+      internalID: 237451393882602450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_79
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 315
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a632b436fa713c4f8e7511ccc40c18f
+      internalID: -3318073624246412227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_80
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 346
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1b86eb0af8e2d4e85b8d63ae6d8029
+      internalID: -2996604266935638152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_81
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 316
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2582d514d83a845b4c1b329cb18771
+      internalID: 1192818081135396931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_82
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 341
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d7970b47b45034b823813879970e59
+      internalID: -7549942761576415310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_83
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 319
+        width: 48
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4423519c0171da24a97ca6b8edfa74d2
+      internalID: -2818429131720766952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_84
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 177
+        width: 74
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3045056303684a548a18ae294483cc77
+      internalID: 2592911659212597221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_85
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 177
+        width: 62
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576faa3bb8eaceb4698a012f562430f0
+      internalID: 7716376756458247000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_86
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 289
+        width: 55
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84deff6ff46e1574ea55917f9fa697bd
+      internalID: 265435785740646191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_87
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 294
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccf7fb79335b9c489c857a07fede747
+      internalID: 8183735534119057817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_88
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 289
+        width: 51
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe974a5cdf78324f90c4e631d9e1c28
+      internalID: 5428713551181567552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_89
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 249
+        width: 62
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0270af52aee9c45b6ae7f8e6f01a07
+      internalID: -1167241927134058884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_90
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 239
+        width: 65
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619ec8355d790b24f943ec7826450973
+      internalID: 1610137691419463246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_91
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 239
+        width: 63
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f046063c990ecc4395669ccab7706f4
+      internalID: -7559782594877711895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_92
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 176
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da89a82c4260d1b478f609dc1efdb6f8
+      internalID: -3075575789668053018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 176
+        width: 54
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b18898a7f545c4bb0a7e2baa25d6b6
+      internalID: 4349354170089602205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_94
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 213
+        width: 44
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a36d59395d36b540b59b686baa1aa3f
+      internalID: 3800517936682752144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_95
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 205
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76824330d071456469c403f16a7b17ad
+      internalID: -7818772706830374101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_96
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 200
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f7066e972782e4bb6de19c48a6d2cd
+      internalID: 3726562641006989322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_97
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 99
+        width: 64
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e387241fde92e9448dfae099827a1c1
+      internalID: -7414947450643041356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_98
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 99
+        width: 62
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c555dae0460056f43b1a0cede11f5424
+      internalID: -8483959895695424878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 107
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db9ab5c244318c47af041a05674f79b
+      internalID: 945880434117212038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_100
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 107
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658474f9421bd6f4fbaf452ff00b6359
+      internalID: -8749573162015652316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_101
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 169
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8362592f642a042ab29efdff4522ac
+      internalID: 1152156596297694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_102
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 163
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6db0618514c02e4892b83b6925116b8
+      internalID: -5206802441205860749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_103
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 158
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd740b212fc6562409362d0935df5534
+      internalID: -1978639023987774347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_104
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 135
+        width: 44
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c479a5f47664bbf4597307f3c9900175
+      internalID: 4306444118991638166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_105
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 126
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d09e06d9a195944a16fd5cdf0634ff
+      internalID: 9029509904104391290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_106
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 121
+        width: 51
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7cc14fd9f711a408a8655bd72b0223
+      internalID: -8886554127738004572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_107
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 23
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f317170be4c85254092404f33bf23911
+      internalID: -8198871357619531803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_108
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 23
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686d87364b294e34897d12fa674d800c
+      internalID: -8728361683187431781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_109
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 74
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e2bda2cbcfab14591068f46e5b1e48
+      internalID: -780442278299097648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_110
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 76
+        width: 67
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b27d91bc035bf4182ae28dd6552950
+      internalID: -4122522257841630661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_111
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 91
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532013f87e1b8d1498f441eb0a354e3f
+      internalID: 3871585246247610365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_112
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 90
+        width: 57
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88afb21aab151774b98631bd6aca94d6
+      internalID: -4673973329857051902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_113
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 85
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75503d3c86bdc4c4492e9ad0a0343225
+      internalID: -2284770916800074974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_114
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 82
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb6f969467489442a3c7f04c32fc6f3
+      internalID: 1741239687303113050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_115
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 43
+        width: 55
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdf879da29698f409ee96fccae78645
+      internalID: -15534318515607412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_116
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 43
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf4eaf7a76570e4ab352825e8a7ff78
+      internalID: 3837366431527834989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_117
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 17
+        width: 45
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a67d59fdba7e49b46919bc869932c
+      internalID: -3775525104728978053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: eyeMouth_118
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 20
+        width: 68
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4197c1bb7e1e0459f85e7c20e9c59a
+      internalID: -6268712811781978764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 41c7c645624ac5f46be6f5e93672c48f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
